@@ -2,9 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CFBundleURLTypes</key>
-	<array>
-		<dict/>
-	</array>
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict/>
+    </array>
+    <key>CFBundleVersion</key>
+    <string>1</string> <!-- Build numarası başlangıçta 1 olarak ayarlandı -->
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string> <!-- Version numarası başlangıçta 1.0 olarak ayarlandı -->
 </dict>
 </plist>
+
